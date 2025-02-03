@@ -1,1 +1,3 @@
-*.log fileignorato.data
+*.log
+fileignorato.data
+*.log
